@@ -1,0 +1,8 @@
+numpy
+pandas
+s2sphere
+nltk
+seaborn
+feature_engine
+matplotlib
+scikit-learn
